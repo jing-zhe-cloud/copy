@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+TypeSimulator.spec
+*.ico
+键盘打字助手_Setup*.exe
+venv/
